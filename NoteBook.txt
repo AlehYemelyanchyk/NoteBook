@@ -1,0 +1,5 @@
+Shopping-;-myEmail@mail.com-;-2019.08.03 at 10:11:40 MSK-;-Buy milk, bread and sugar.
+Sport-;-myEmail@mail.com-;-2019.08.03 at 10:11:40 MSK-;-Start jogging.
+Job-;-myEmail@mail.com-;-2019.08.03 at 10:11:40 MSK-;-Go to the interview next week.
+Java-;-myEmail@mail.com-;-2019.08.03 at 10:11:40 MSK-;-Learn collections.
+Shopping-;-myEmail@mail.com-;-2019.08.03 at 10:11:40 MSK-;-Buy a new car.
